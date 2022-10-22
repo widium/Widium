@@ -1,10 +1,11 @@
 ![Banner.png](Banner.png)
 
-Étudiant en autodidacte dans la Data Science.
-Étudiant en Computer Science à l'École 42, Programmation en C et C++
+- Étudiant : 
+  - en autodidacte dans la Data Science.
+  - en Computer Science à l'École 42, Programmation en C et C++
 
 
-Ce Github regroupe tous mes travaux, exercice, et progression dans mon apprentissage.
+- Ce Github regroupe tous mes travaux, exercice, et progression dans mon apprentissage.
 
 # 42 Cursus
 - ### [Libft](https://github.com/widium/libft)
