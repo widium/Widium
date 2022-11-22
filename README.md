@@ -1,8 +1,7 @@
 ![Banner.png](Banner.png)
 
-- Student : 
-  - self-learning Data Science.
-  - in Computer Science at 42 School , Programming in C and C++.
+  - Self-learning in Machine Learning.
+  - Computer Science Student at 42 School , Programming in C and C++.
 
 - This Github gathers all my works, exercises, and progress in my learning.
 
