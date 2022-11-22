@@ -1,15 +1,15 @@
 ![Banner.png](Banner.png)
 
-- Étudiant : 
-  - en autodidacte dans la Data Science.
-  - en Computer Science à l'École 42, Programmation en C et C++
+- Student : 
+  - self-learning Data Science.
+  - in Computer Science at 42 School , Programming in C and C++.
 
-
-- Ce Github regroupe tous mes travaux, exercice, et progression dans mon apprentissage.
+- This Github gathers all my works, exercises, and progress in my learning.
 
 # Data Science
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Neural Style Transfer](https://github.com/widium/Neural-Style-Transfer)
+-  [Mildew CLassifier using CNN](https://github.com/widium/Mildew_Classifier)
 -  [Deep Reinforcement Learning Push_swap](https://github.com/widium/RL_push_swap)
 
 --
@@ -27,4 +27,3 @@
 -  [Minishell](https://github.com/widium/Minishell)
 -  [Philosopher](https://github.com/widium/Philosopher)
 ---
-- [Mini RayTracing](https://github.com/widium/MiniRT)
