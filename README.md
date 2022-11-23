@@ -1,7 +1,9 @@
 ![Banner.png](Banner.png)
 
 Autodidact in machine learning.
+
 Computer science student at 42 School, programming in C and C++.
+
 This Github gathers all my works, exercises, and my progress.
 
 # Data Science
