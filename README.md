@@ -1,9 +1,8 @@
 ![Banner.png](Banner.png)
 
-  - Self-learning in Machine Learning.
-  - Computer Science Student at 42 School , Programming in C and C++.
-
-- This Github gathers all my works, exercises, and progress in my learning.
+Autodidact in machine learning.
+Computer science student at 42 School, programming in C and C++.
+This Github gathers all my works, exercises, and my progress.
 
 # Data Science
 -  [Transformer from scratch](https://github.com/widium/Transformer)
