@@ -9,7 +9,7 @@ This Github gathers all my works, exercises, and my progress.
 # Data Science
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Neural Style Transfer](https://github.com/widium/Neural-Style-Transfer)
--  [Mildew CLassifier using CNN](https://github.com/widium/Mildew_Classifier)
+-  [Mildew Classifier using CNN](https://github.com/widium/Mildew_Classifier)
 -  [Deep Reinforcement Learning Push_swap](https://github.com/widium/RL_push_swap)
 
 --
