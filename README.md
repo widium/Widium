@@ -14,10 +14,6 @@ This Github gathers all my works, exercises, and my progress.
 
 --
 # 42 Cursus
--  [Libft](https://github.com/widium/libft)
--  [Get_next_line](https://github.com/widium/get_next_line)
--  [ft_printf](https://github.com/widium/printf)
----
 -  [Push swap](https://github.com/widium/push_swap)
 -  [Big O Notation Push Swap](https://github.com/widium/big_O_notations_push_swap)
 -  [Fractol](https://github.com/widium/fractol)
