@@ -7,6 +7,7 @@ Computer science student at 42 School, programming in C and C++.
 This Github gathers all my works, exercises, and my progress.
 
 # Data Science
+-  [NLP Preprocessing From Scratch](https://github.com/widium/NLP_Processing)
 -  [Historical Training for Pytorch Model](https://github.com/widium/Historical_Training)
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Neural Style Transfer](https://github.com/widium/Neural-Style-Transfer)
