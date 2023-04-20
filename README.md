@@ -9,7 +9,7 @@ This Github contains all my works, exercises, and my progress.
 ## Pytorch Utils
 -  [Pytorch Model Saver](https://github.com/widium/Pytorch-Model-Archiver)
 -  [Pytorch Experiment Framework](https://github.com/widium/Pytorch_Experiment_Framework)
--  [Historical Training for Pytorch Model](https://github.com/widium/Historical_Training)
+-  [Pytorch Training Toolkit](https://github.com/widium/Historical_Training)
 ## NLP
 -  [NLP Preprocessing From Scratch](https://github.com/widium/NLP_Processing)
 ## Tensorflow
