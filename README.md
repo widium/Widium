@@ -15,7 +15,6 @@ Autodidact in machine learning and Computer science student at 42 School
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
 ## Not Finish...
--  [Mildew Classifier using CNN](https://github.com/widium/Mildew_Classifier)
 -  [Deep Reinforcement Learning Push_swap](https://github.com/widium/RL_push_swap)
 ## 42 Cursus
 -  [Push swap](https://github.com/widium/push_swap)
