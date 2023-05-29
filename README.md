@@ -12,6 +12,9 @@ Computer science student at 42 School, programming in C
 ## Tensorflow
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Neural Style Transfer](https://github.com/widium/Neural-Style-Transfer)
+## Transformer
+-  [Transformer from scratch](https://github.com/widium/Transformer)
+-  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
 ## Not Finish...
 -  [Mildew Classifier using CNN](https://github.com/widium/Mildew_Classifier)
 -  [Deep Reinforcement Learning Push_swap](https://github.com/widium/RL_push_swap)
