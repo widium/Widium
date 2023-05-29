@@ -1,7 +1,6 @@
 ![Banner.png](Banner.png)
 
-Autodidact in machine learning
-Computer science student at 42 School, programming in C
+Autodidact in machine learning and Computer science student at 42 School
 
 ## Pytorch Utils
 -  [Pytorch Model Saver](https://github.com/widium/Pytorch-Model-Archiver)
