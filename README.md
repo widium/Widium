@@ -1,10 +1,7 @@
 ![Banner.png](Banner.png)
 
-Autodidact in machine learning since 8 month
-
+Autodidact in machine learning
 Computer science student at 42 School, programming in C
-
-This Github contains all my works, exercises, and my progress.
 
 ## Pytorch Utils
 -  [Pytorch Model Saver](https://github.com/widium/Pytorch-Model-Archiver)
