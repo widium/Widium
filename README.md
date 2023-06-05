@@ -1,7 +1,9 @@
 ![Banner.png](Banner.png)
 
 Autodidact in machine learning and Computer science student at 42 School
-
+## Transformer
+-  [Transformer from scratch](https://github.com/widium/Transformer)
+-  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
 ## Pytorch Utils
 -  [Pytorch Model Saver](https://github.com/widium/Pytorch-Model-Archiver)
 -  [Pytorch Experiment Framework](https://github.com/widium/Pytorch_Experiment_Framework)
@@ -11,9 +13,6 @@ Autodidact in machine learning and Computer science student at 42 School
 ## Tensorflow
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Neural Style Transfer](https://github.com/widium/Neural-Style-Transfer)
-## Transformer
--  [Transformer from scratch](https://github.com/widium/Transformer)
--  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
 ## Not Finish...
 -  [Deep Reinforcement Learning Push_swap](https://github.com/widium/RL_push_swap)
 ## 42 Cursus
