@@ -2,7 +2,6 @@
 
 Autodidact in machine learning and Computer science student at 42 School
 ## Transformer
--  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
 ## Pytorch Utils
 -  [Pytorch Model Saver](https://github.com/widium/Pytorch-Model-Archiver)
