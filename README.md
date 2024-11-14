@@ -1,7 +1,7 @@
 ![Banner.png](Banner.png)
 
 Autodidact in machine learning and Computer science student at 42 School
-## Side Project Farm with [Bima](https://github.com/Bima42) ! 🧑‍🌾  
+## Side Project Farm with [Bima](https://github.com/Bima42) ! 🧑‍🌾
 
 <a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
 
