@@ -1,24 +1,14 @@
 ![Banner.png](Banner.png)
 
-Autodidact in machine learning and Computer science student at 42 School
 ## Side Project Farm with [Bima](https://github.com/Bima42) ! 🧑‍🌾
 
 <a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
 
 ---
-## Transformer
+## Machine Learning
 -  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
-## Pytorch Utils
--  [Pytorch Model Saver](https://github.com/widium/Pytorch-Model-Archiver)
--  [Pytorch Experiment Framework](https://github.com/widium/Pytorch_Experiment_Framework)
--  [Pytorch Training Toolkit](https://github.com/widium/Historical_Training)
-## NLP
--  [NLP Preprocessing From Scratch](https://github.com/widium/NLP_Processing)
-## Tensorflow
 -  [Transformer from scratch](https://github.com/widium/Transformer)
 -  [Neural Style Transfer](https://github.com/widium/Neural-Style-Transfer)
-## Not Finish...
--  [Deep Reinforcement Learning Push_swap](https://github.com/widium/RL_push_swap)
 ## 42 Cursus
 -  [Push swap](https://github.com/widium/push_swap)
 -  [Big O Notation Push Swap](https://github.com/widium/big_O_notations_push_swap)
