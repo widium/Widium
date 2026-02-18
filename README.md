@@ -1,10 +1,7 @@
 ![Banner.png](Banner.png)
-
-## Side Project Farm with [Bima](https://github.com/Bima42) ! 🧑‍🌾
-
-<a href="https://prompt-pilot.app" target="_blank"><img src="./resources/prompt-pilot-logo-black.svg" alt="prompt-pilot-login" /></a>
-
 ---
+https://eddie.up.railway.app/
+
 ## Machine Learning
 -  [Vision Transformer Pytorch](https://github.com/widium/Vision-Transformer-Pytorch)
 -  [Transformer from scratch](https://github.com/widium/Transformer)
